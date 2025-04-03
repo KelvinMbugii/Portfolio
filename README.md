@@ -63,7 +63,7 @@ How to Use:
 
 i.  Clone the repository or download the files.
 
-ii. git clone https://github.com/your-repo/portfolio.git
+ii. git clone https://github.com/KelvinMbugii/Portfolio.git
 
 iii.Open index.html in a web browser.
 
